@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to FUTRON CLUB
 
-You can use the [editor on GitHub](https://github.com/Futron-EJUST/Sensors-and-Actuators/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**We hope you enjoy throughout the joureny**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Description 
 
-### Markdown
+Mainly, robotics interacts with surrounding environments via both of sensors and actuators. Such that the robots is manipulate with sensors to perceive the environment, the sensors signal is interpreted and processed by CPU to decide an action and send signal to the actuators which act in the environment to achieve desired tasks. In this course we will understand the interface of electrical actuators and the required electric drives. And, also understand the basic concepts and how to extract and manipulate most popular robotics used sensors.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Course Content 
 
-# Header 1
-## Header 2
-### Header 3
+1. Introduction to Basic concepts of sensors & actuators.
 
-- Bulleted
-- List
+2. The role of Sensors & Actuators in Robotics systems.
 
-1. Numbered
-2. List
+3. Range finder sensors
 
-**Bold** and _Italic_ and `Code` text
+   - Sonar sensor
 
-[Link](url) and ![Image](src)
-```
+   - LIDAR sensor
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4. Proprioceptive sensors
 
-### Jekyll Themes
+   - Shaft Decoders
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Futron-EJUST/Sensors-and-Actuators/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+   - Odometry Concept
 
-### Support or Contact
+   - IMU
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. Force sensors
+
+5. Torque sensors
+
+6. DC-Servo-Stepper Motors
+
+7. Electrical Drives
+
+The content will be uploaded as courses are launched
+
+Return to [home page](https://futron-ejust.github.io/FUTRON/).
